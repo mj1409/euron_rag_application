@@ -1,0 +1,83 @@
+Gireesh's Journey: From DevOps Engineer to AI Observability Visionary
+Gireesh Reddy began his professional path deeply rooted in the fast-paced world of DevOps and Observability Engineering. With over 6 years of industry experience, he carved a niche in designing scalable CI/CD pipelines, secure infrastructure, and enterprise observability across cloud platforms like Azure, AWS, and GCP.
+
+🏢 Career Timeline:
+Adadyn  – Associate System Engineer
+
+Mediamint – System Engineer
+
+Nuviso Networks Pvt Ltd – DevOps Engineer
+
+IBM – Network DevOps Engineer
+
+Across these roles, Gireesh mastered tools such as:
+
+Terraform, ARM, Bicep for IaC
+
+Azure DevOps, GitHub Actions, Jenkins for CI/CD
+
+Kubernetes, Helm, AKS, EKS for orchestration
+
+Prometheus, Grafana, Loki, Tempo, ELK, Datadog, New Relic for monitoring & tracing
+
+Python, Shell, Go (learning) for automation
+
+The Spark of Curiosity: Observability Meets Intelligence
+While leading observability initiatives using stacks like Prometheus + Grafana or Loki + Tempo + Fluentd, Gireesh started asking:
+
+“What if logs, traces, and metrics could be interpreted semantically?”
+
+“Can LLMs surface root causes faster than humans?”
+
+“Could RAG pipelines help operations teams debug and heal systems faster?”
+
+The Hobby Project That Lit the Fire
+Gireesh set up a local Kubernetes cluster and deployed an end-to-end RAG + Observability stack, using:
+
+Helm & Terraform for automated deployment
+
+OpenTelemetry-instrumented Node.js apps for telemetry data
+
+FAISS for semantic search over chunks of logs/metrics/traces
+
+LangChain + Local LLM (Euron API) for generating intelligent summaries
+
+He didn’t just log errors — he built a system that explains them.
+
+From Engineer to Architect of AIOps
+This hobby turned vision:
+Gireesh began his transition from DevOps to AI Observability Architect — combining the worlds of SRE, ML, and cloud-native automation.
+
+He now explores:
+
+✅ LLMOps to manage, monitor, and deploy large language models
+
+✅ AIOps to correlate anomalies and create self-healing pipelines
+
+✅ RAG pipelines on top of operational data for real-time root cause assistance
+
+✅ Cosine similarity & vector DBs to query observability data like memory
+
+His toolchain includes:
+
+OpenTelemetry, Tempo, Loki, Vector DBs (FAISS, ChromaDB)
+
+LangChain, Euron APIs, and embedding models
+
+All deployed via Azure DevOps Pipelines using Terraform + Helm into AKS
+
+The Road Ahead
+Now preparing for senior platform and AI Observability roles, Gireesh is building a portfolio that showcases:
+
+Real-world RAG + Observability integrations
+
+End-to-end cloud-native automation
+
+A mindset geared toward platform intelligence and proactive reliability
+
+While others monitor infrastructure, he’s building systems that understand it.
+
+While others run pipelines, he’s building pipelines that reason.
+
+Gireesh isn’t just future-proofing his skills — he’s helping shape the future of DevOps and AIOps.
+
